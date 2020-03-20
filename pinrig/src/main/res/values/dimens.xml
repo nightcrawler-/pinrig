@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pin_rig_width">40dp</dimen>
+    <dimen name="pin_rig_height">60dp</dimen>
+    <dimen name="pin_rig_margin">8dp</dimen>
+</resources>
