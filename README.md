@@ -34,4 +34,13 @@ The version information can be found from the releases tab.
 
 ### Usage
 
+Just set the KeyPad to the PIN Rig, and implement the pinrig listener, then call the setup method
+
+```     
+           binding.pinRig.keypad = binding.keypad
+           binding.pinRig.listener = this
+           binding.pinRig.setup()
+   
+```
+
 ### In Action
