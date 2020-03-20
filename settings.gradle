@@ -1,0 +1,3 @@
+include ':pinrig'
+include ':app'
+rootProject.name = "PIN Rig"
