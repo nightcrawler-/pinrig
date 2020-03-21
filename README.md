@@ -4,11 +4,7 @@
 
 PIN Rig is a custom anddroid widget that simplifies the input and interraction with PIN number. Currently only four-digit PINs are supported.
 
-![Screenshot](images/1.png)
-
-# Planned Features!
-
-  - XML Attributes for rig shape and color
+![Screenshot](images/1.png | width=200)
 
 ### Installation
 
@@ -43,4 +39,6 @@ Just set the KeyPad to the PIN Rig, and implement the pinrig listener, then call
    
 ```
 
-### In Action
+### Planned Features!
+
+  - XML Attributes for rig shape and color
